@@ -1,7 +1,7 @@
 SISG-Net:Simultaneous Instance Segmentation and Grasp Detection for Robot Grasp in Clutter
 
 https://youtu.be/eB4LKfYZwYo
-
+https://drive.google.com/file/d/1-XBstG9ur90E4X66gdG_OLVidCR56pgV/view?usp=drive_link
 ![Demo](./imgs/demo.gif)
 
 
