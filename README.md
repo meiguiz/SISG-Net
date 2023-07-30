@@ -26,11 +26,3 @@ cuda=11.1
 3. To train an SISG-Net on OCID dataset. 
 ```
 $ python train.py --gpu 0 --cfg rgb_depth
-
-
-
-
-
-
-
-
