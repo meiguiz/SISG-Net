@@ -8,6 +8,7 @@ SISG-Net:Simultaneous Instance Segmentation and Grasp Detection for Robot Grasp 
 
 
 The video of our experiment used in this paper can be found at: https://youtu.be/G_8USOwFXVs
+
 The relabled OCID dataset can be found at: https://drive.google.com/file/d/1-XBstG9ur90E4X66gdG_OLVidCR56pgV/view?usp=drive_link
 
 
@@ -25,18 +26,7 @@ cuda=11.1
 3. To train an SISG-Net on OCID dataset. 
 ```
 $ python train.py --gpu 0 --cfg rgb_depth
-```
 
-
-### Evaluation and Visualization
-
-To evaluate an SF Mask R-CNN (confidence fusion, RGB-noisy depth as input) on a WISDOM dataset
-```
-$ python eval.py --gpu 0 --cfg rgb_noisydepth_confidencefusion \
-    --eval_data wisdom \
-    --dataset_path $WISDOM_PATH \
-    --weight_path $WEIGHT_PATH/SFMaskRCNN_ConfidenceFusion.tar 
-```
 
 
 
