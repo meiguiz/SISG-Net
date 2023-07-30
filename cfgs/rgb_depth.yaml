@@ -1,0 +1,15 @@
+input_modality: "rgb"
+fusion_method: null
+backbone_name: "resnet50"
+
+batch_size : 2
+max_epoch : 201
+lr : 0.001
+wd : 0.001
+
+width: 512
+height: 384
+dataset: "synthetic"
+dataset_path: "/media/meiguiz/HIKVISION/dataset/OCID"
+
+best_epoch: 0
