@@ -9,6 +9,7 @@ SISG-Net:Simultaneous Instance Segmentation and Grasp Detection for Robot Grasp 
 
 
 The video of our experiment used in this paper can be found at: https://youtu.be/G_8USOwFXVs
+![c7e736fb763cd54e83c8f40b355045bb](https://github.com/meiguiz/SISG-Net/assets/90629126/19f5b56c-bff3-4607-a00c-b25d57c9ea3d)
 
 The relabled OCID dataset can be found at: https://drive.google.com/file/d/1-XBstG9ur90E4X66gdG_OLVidCR56pgV/view?usp=drive_link
 
